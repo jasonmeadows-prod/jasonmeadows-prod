@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hello, I'm Jason!
+<a href="https://linkedin.com/in/jason-meadows-244124297"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-<!--
-**jasonmeadows-prod/jasonmeadows-prod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Cybersecurity student documenting my learning journey.
 
-Here are some ideas to get you started:
+My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Currently Learning
+
+- Linux fundamentals
+- Networking basics
+- Cybersecurity concepts
+- TryHackMe labs
+
+## Tools
+
+- Windows 11
+- TryHackMe
+- GitHub
+
